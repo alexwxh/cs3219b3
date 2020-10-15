@@ -10,7 +10,7 @@ steps:
     args:
       - functions
       - deploy
-      - app
+      - startPoint
       - --runtime=nodejs12
       - --source=.
       - --trigger-http

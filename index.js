@@ -33,3 +33,4 @@ app.use('/api', apiRoutes);
 // Launch app to listen to specified port
 
 module.exports = app; //for testing purposes
+exports.startPoint = app;
