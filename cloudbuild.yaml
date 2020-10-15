@@ -11,7 +11,7 @@ steps:
       - functions
       - deploy
       - startPoint
-      - --entry-point=app
+      - --entry-point=get
       - --runtime=nodejs12
       - --source=.
       - --trigger-http
