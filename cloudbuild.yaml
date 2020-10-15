@@ -10,7 +10,7 @@ steps:
     args:
       - functions
       - deploy
-      - helloGET
+      - app
       - --runtime=nodejs12
       - --source=.
       - --trigger-http
