@@ -14,4 +14,5 @@ steps:
       - --runtime=nodejs12
       - --source=.
       - --trigger-http
+      - --allow-unauthenticated
 # [END functions_ci_cd_cloud_build]
