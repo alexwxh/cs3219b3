@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcebfdab-1e06-4856-a8d8-c75480e80a42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/functions/api-routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/fruitController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/fruitModel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloudbuild.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudbuild.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +65,7 @@
       <workItem from="1602741527191" duration="1045000" />
       <workItem from="1602772174337" duration="3394000" />
       <workItem from="1602787760627" duration="361000" />
-      <workItem from="1602791352706" duration="5162000" />
+      <workItem from="1602791352706" duration="5602000" />
     </task>
     <servers />
   </component>
